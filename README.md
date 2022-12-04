@@ -1,4 +1,4 @@
-# Material UI App
+# Material UI Facebook Sample Application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
